@@ -16,7 +16,7 @@
 ## Colors
 |Light green| Light white |
 |--|--|
-| #ADD981| #FFFFFFDF | 
+| `#ADD981`| `#FFFFFFDF` | 
 
 
 ## Flaticons
